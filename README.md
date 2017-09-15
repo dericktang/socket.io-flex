@@ -1,4 +1,4 @@
-# socket.io-flex
+# socket.io-flex(开源中请等待)
 
 socket.io 使用 `socket.io-flex` 组件让服务端能够提供柔性服务.
 
