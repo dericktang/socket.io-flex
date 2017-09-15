@@ -1,0 +1,25 @@
+{
+  "name": "socket.io-flex",
+  "version": “0.0.1”,
+  "description": "socket.io-flex 柔性服务组件",
+  "license": "MIT",
+  "author": {
+    "name": "dericktang"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dericktang/socket.io-flex.git"
+  },
+  "files": [
+    "index.js","lib/"
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+    "debug": "2.3.3",
+    "socket.io-adapter": "0.5.0",
+    "nconp-os": "0.0.1"
+  },
+  "devDependencies": {
+  }
+}
